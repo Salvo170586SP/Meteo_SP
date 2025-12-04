@@ -7,7 +7,7 @@ Un progetto dimostrativo realizzato interamente con **Javascript** per simulare 
 ## Anteprima
 
 <p float="left">
-    <img src="https://github.com/Salvo170586SP/Meteo_SP/blob/main/images/screenshots/screenshot-1.png?raw=true" alt="Alt Text" style="width:250px;">
+    <img src="https://github.com/Salvo170586SP/Meteo_SP/blob/main/public/images/screenshots/screenshot-1.png?raw=true" alt="Alt Text" style="width:250px;">
 </p>
 
 ## 💡 Panoramica del Progetto
